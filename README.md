@@ -12,7 +12,7 @@ this project is not from scratch i just made some changes that all
 <img src="static\Images\screenshots\2.PNG"/>
 
 ## Tools used:
-* HTML,CSS,JS (logic)
+* HTML,CSS + alert XD
 * Visual studio Code (Text Editor)
 
 ## Contribution:
