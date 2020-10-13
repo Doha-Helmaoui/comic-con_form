@@ -6,7 +6,7 @@
 
 TBH i don't like web dev ;-; but llah ghalab it's today's assignment ಥ‿ಥ
 
-this project is not from scratch i just made some changes that all
+this project is not from scratch i just made some changes that's all
 
 ## Screenshot:
 <img src="Formulaire\static\Screenshots\s1.png"/>
