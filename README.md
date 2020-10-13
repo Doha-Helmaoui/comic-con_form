@@ -9,8 +9,10 @@ TBH i don't like web dev ;-; but llah ghalab it's today's assignment ಥ‿ಥ
 this project is not from scratch i just made some changes that all
 
 ## Screenshot:
-<img src="Formulaire\static\Screenshots\s1.PNG"/>
 <img src="Formulaire\static\Screenshots\s1.png"/>
+
+
+<img src="Formulaire\static\Screenshots\s2.png"/>
 
 ## Tools used:
 * HTML,CSS + alert XD
