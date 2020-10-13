@@ -10,6 +10,7 @@ this project is not from scratch i just made some changes that all
 
 ## Screenshot:
 <img src="Formulaire\static\Screenshots\s1.PNG"/>
+<img src="comic-con_form\Formulaire\static\Screenshotss1.PNG"/>
 
 ## Tools used:
 * HTML,CSS + alert XD
