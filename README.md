@@ -9,7 +9,7 @@ TBH i don't like web dev ;-; but llah ghalab it's today's assignment ಥ‿ಥ
 this project is not from scratch i just made some changes that all
 
 ## Screenshot:
-<img src="static\Images\screenshots\2.PNG"/>
+<img src="Formulaire\static\Images\screenshots\2.PNG"/>
 
 ## Tools used:
 * HTML,CSS + alert XD
