@@ -12,8 +12,6 @@ this project is not from scratch i just made some changes that all
 <img src="Formulaire\static\Screenshots\s1.png"/>
 
 
-<img src="Formulaire\static\Screenshots\s2.png"/>
-
 ## Tools used:
 * HTML,CSS + alert XD
 * Visual studio Code (Text Editor)
